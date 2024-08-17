@@ -20,13 +20,13 @@ This is the groupchat link for telegram: https://t.me/+aK6PLfqOc3VhNDNh
 Next up we'll be getting:
 
 
-SNS URL : keyi.sol acquired , needs to be populated
+SNS URL : keyi.sol acquired , needs to be populated (可.sol is owned but not used, hope we can get in touch with the human who can turn it over to us for good use https://www.sns.id/domain?domain=%E5%8F%AF )
 
 DNS URL : 可.xyz ---> xn--jpr.xyz ---> keyi.xyz (currently ---> https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump until a website exists)
 
 TwitterX :
 
-Shared community development lore hub:
+Shared community development lore hub: just telegram for the moment
 
 3D Printable 🉑 swag:
 
