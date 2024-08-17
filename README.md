@@ -19,10 +19,15 @@ This is the groupchat link for telegram: https://t.me/+aK6PLfqOc3VhNDNh
 
 Next up we'll be getting:
 
-SNS URL : 
-DNS URL :
+
+SNS URL : keyi.sol acquired , needs to be populated
+
+DNS URL : 可.xyz ---> xn--jpr.xyz ---> keyi.xyz (currently ---> https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump until a website exists)
+
 TwitterX :
+
 Shared community development lore hub:
+
 3D Printable 🉑 swag:
 
 
